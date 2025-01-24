@@ -159,7 +159,7 @@ body {
 </div>          
 """, unsafe_allow_html=True)
 # st.text("Boost Your Resume's Visibility with Our Advanced ATS Evaluation Tool!")
-job_description = st.text_area("🔍 Job Description", "Paste the job description here to match with your resume.")
+job_description = st.text_area("🔍 Job Description", " ")
 uploaded_file = st.file_uploader("📄 Upload Your Resume", type="pdf", help="Upload your resume in PDF format for a thorough evaluation.")
 
 
@@ -298,10 +298,10 @@ st.markdown("""
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <div class="footer">
-        <p>Developed by Anubhav Raj</p>
+        <p>Developed by Shanu Kumar Manglam</p>
         <p class="social-icons">
-            <a href="https://github.com/Anubhx" target="_blank"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com/in/anubhax/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/Shanu1110" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://linkedin.com/in/shanu1110/" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="mailto:shanukr44150@gmail.com"><i class="fas fa-envelope"></i></a>
         </p>
     </div>
