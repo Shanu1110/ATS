@@ -302,7 +302,7 @@ st.markdown("""
         <p class="social-icons">
             <a href="https://github.com/Anubhx" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://linkedin.com/in/anubhax/" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="mailto:anubhav0427@gmail.com"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:shanukr44150@gmail.com"><i class="fas fa-envelope"></i></a>
         </p>
     </div>
 """, unsafe_allow_html=True)
